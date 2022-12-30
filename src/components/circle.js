@@ -5,6 +5,10 @@ class Circle extends Shape {
     super(color);
     this.radius = radius;
   }
+  
+  drawShape() {
+    
+  }
 
   calculateArea() {
     return Math.PI * this.radius * this.radius;
