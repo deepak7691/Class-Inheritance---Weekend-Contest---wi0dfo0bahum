@@ -1,14 +1,14 @@
 class Shape {
   constructor(color) {
-    this.color = red;
+    this.color = color;
   }
 
   drawShape() {
-    // code to draw the shape
+    // implementation goes here
   }
 
   calculateArea() {
-    // code to calculate the area of the shape
+    // implementation goes here
   }
 }
 
